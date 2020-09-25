@@ -18,10 +18,11 @@ Third party libraries-
 **Setup docs-** 
 
 Navigate to Autocomplete-Redis-master and run command below if you are using linux machine
+and run command below
 
-**export FLASK_APP=autocomplete.py**
+$ `export FLASK_APP=autocomplete.py`
 
-run >> **flask run**
+$ `flask run`
 
 make sure to change redis url in .env file if deploying
 
